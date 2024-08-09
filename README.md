@@ -34,4 +34,4 @@ npm run start
 
 ### **Como Utlizar**
 
-Primeiro execute o projeto backend que está em https://github.com/guiflr/heatmap-backend, assim será possível fazer os upload sem problemas.
+Primeiro execute o projeto backend que está em https://github.com/guiflr/heatmap-backend, assim será possível fazer os uploads sem problemas.
