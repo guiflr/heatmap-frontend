@@ -6,6 +6,7 @@
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
 - [Configuração do Ambiente](#configuração-do-ambiente)
 - [Instalação](#instalação)
+- [Como utilizar](#como-utilizar)
 
 ## **Sobre o Projeto**
 
@@ -30,3 +31,7 @@ cd heatmap-frontend
 npm install
 npm run start
 ````
+
+### **Como Utlizar**
+
+Primeiro execute o projeto backend que está em https://github.com/guiflr/heatmap-backend, assim será possível fazer os upload sem problemas.
